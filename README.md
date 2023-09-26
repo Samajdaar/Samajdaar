@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Samajdaar
+- 👋 Hi, I’m Jahan
 - 👀 I’m interested in ... Machine Learning, AI, The future of work and all things decarbonisation
 - 🌱 I’m currently learning ... Data Cloud Engineering
 - 💞️ I’m looking to collaborate on ... Learning
